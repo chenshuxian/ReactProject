@@ -1,6 +1,8 @@
 # **koa2-react-isomorphic-boilerplate**
 
 keywords: koa2,react,redux,isomorphic app
+relation: react-bootstrap, react-bootstrap-table, koa2-bodyparser  
+
 
 
 
